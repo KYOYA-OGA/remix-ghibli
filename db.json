@@ -1,0 +1,28 @@
+{
+  "comments": [
+    {
+      "id": "1",
+      "name": "Bibi",
+      "message": "Literally the best",
+      "filmId": "dc2e6bd1-8156-4886-adff-b39e6043af0c"
+    },
+    {
+      "id": "2",
+      "name": "Kuro",
+      "message": "Nothing is better than a good movie",
+      "filmId": "dc2e6bd1-8156-4886-adff-b39e6043af0c"
+    },
+    {
+      "name": "bibi",
+      "message": "this is test",
+      "filmId": "2baf70d1-42bb-4437-b551-e5fed5a87abe",
+      "id": "6Dbwa57"
+    },
+    {
+      "name": "bibi",
+      "message": "wanwan",
+      "filmId": "dc2e6bd1-8156-4886-adff-b39e6043af0c",
+      "id": "av0x4I4"
+    }
+  ]
+}
